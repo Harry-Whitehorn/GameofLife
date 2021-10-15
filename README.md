@@ -40,7 +40,7 @@ Grid is loaded from ```gridSave.txt```. If the savedGrid size is larger than the
 
 ### Examples
 
-### Glider
+#### Glider
 
 <img src="https://harry-whitehorn.github.io/images/glider.gif" width="100" height="100" />
 
