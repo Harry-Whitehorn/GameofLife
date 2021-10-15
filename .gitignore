@@ -1,3 +1,4 @@
+# Processing
 .DS_Store
 applet
 application.linux-arm64
@@ -7,3 +8,6 @@ application.linux64
 application.windows32
 application.windows64
 application.macosx
+#vs code
+/.vscode
+/out
